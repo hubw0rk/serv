@@ -6,7 +6,7 @@
     font-family: tabler-icons;
     font-style: normal;
     font-weight: 400;
-    src: url("https://cdn.jsdelivr.net/gh/hubw0rk/rep/tabler-icons.woff2?v3.4.0") format("woff2"), url("https://cdn.jsdelivr.net/gh/hubw0rk/rep/tabler-icons.woff?") format("woff"), url("https://cdn.jsdelivr.net/gh/hubw0rk/rep/tabler-icons.ttf?v3.4.0") format("truetype")
+    src: url("https://cdn.jsdelivr.net/gh/hubw0rk/repo/tabler-icons.woff2?v3.4.0") format("woff2"), url("https://cdn.jsdelivr.net/gh/hubw0rk/repo/tabler-icons.woff?") format("woff"), url("https://cdn.jsdelivr.net/gh/hubw0rk/repo/tabler-icons.ttf?v3.4.0") format("truetype")
 }
 
 .ti {
